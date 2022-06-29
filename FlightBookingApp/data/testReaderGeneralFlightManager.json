@@ -1,0 +1,28 @@
+{
+  "name": "My Flight Manager",
+  "bookings": [{
+    "id": "923854",
+    "bookings": [
+      {
+        "departureTime": "8:30",
+        "numSeatsLeft": 200,
+        "price": 300,
+        "origin": "Vancouver",
+        "flightCapacity": 200,
+        "destination": "Dubai",
+        "departureDate": "May.5",
+        "flightNumber": 298506
+      },
+      {
+        "departureTime": "16:00",
+        "numSeatsLeft": 200,
+        "price": 500,
+        "origin": "Toronto",
+        "flightCapacity": 200,
+        "destination": "Berlin",
+        "departureDate": "May.19",
+        "flightNumber": 983026
+      }
+    ]
+  }]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "My Flight Manager",
+    "bookings": [{
+        "id": "256098",
+        "bookings": [{
+            "departureTime": "16:00",
+            "numSeatsLeft": 1,
+            "price": 500,
+            "origin": "vancouver",
+            "flightCapacity": 2,
+            "destination": "tokyo",
+            "departureDate": "may.4",
+            "flightNumber": 237811
+        }]
+    }]
+}
